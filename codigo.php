@@ -12,4 +12,7 @@ function funcion($parametros){
 		print (“Eso no pasara jamas”);
 	}
 
+
+
+
 }
