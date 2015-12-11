@@ -16,3 +16,5 @@ function funcion($parametros){
 
 
 }
+
+echo "tu codigo esta mal, has un metodo recursivo y pasame el examen"
